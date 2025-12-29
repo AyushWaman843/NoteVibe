@@ -1,0 +1,7 @@
+{
+  "name": "NoteVibe - GenZ Study Hub",
+  "description": "A high-energy, dark-themed study notes platform featuring dynamic animations, AI-powered summarization, and seamless content management for the modern student.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
